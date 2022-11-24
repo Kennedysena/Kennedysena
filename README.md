@@ -1,6 +1,6 @@
 ### Olá eu sou o Kennedy Sena 👋
 
-- 🌱 Atualmente estou apredendo FRONT-END
+- 🌱 Desenvolvedor Web Front End Jr.
 - 📫 Contate-me email: kennedy.sena87@gmail.com
 
 <div> 
