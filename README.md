@@ -1,7 +1,7 @@
 ### Olá eu sou o Kennedy Sena 👋
 
 - 🌱 Desenvolvedor Web Front End Jr.
-- 🚀 Desenvoldedor Web no <h1> 
+- 🚀 Desenvoldedor Web no <a href="https://www.conecthus.org.br/"> 
 - 📫 Contate-me email: kennedysena.dev@gmail.com
 - ⚛️ JavaScript|React
 
