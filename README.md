@@ -15,8 +15,7 @@
   <img align = "center"  height = "30" width = "40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align = "center"  height = "30" width = "40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align = "center"  height = "30" width = "40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align = "center"  height = "30" width = "40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
-  <img align = "center"  height = "30" width = "40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
+  <img align = "center"  height = "30" width = "40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 
 
  
