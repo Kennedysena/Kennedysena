@@ -1,7 +1,7 @@
 ### Olá eu sou o Kennedy Sena 👋
 
 - 💻 Desenvolvedor Web desde 2019
-- 🚀 Desenvoldedor Web Front End Jr.><a/>
+- 🚀 Desenvoldedor Web Front End Jr.
 - 📫 Contate-me email: kennedysena.dev@gmail.com
 - ⚛️ JavaScript | Typescript | React
 
