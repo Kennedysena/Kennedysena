@@ -1,6 +1,6 @@
 ### Olá eu sou o Kennedy Sena 👋
 
-- 💻 Desenvolvedor Web Jr desde 2019, no estou me especializando para me tornar um desenvolvedor fullstack, buscando ampliar minha habilidade tanto no desenvolvimento front-end quanto no back-end.
+- 💻 Desenvolvedor Front End desde 2020 e Bacgarel em Ciência da computação pela Univerdidade do Norte (UNINORTE) , no estou me especializando para me tornar um desenvolvedor fullstack, buscando ampliar minha habilidade tanto no desenvolvimento front-end quanto no back-end.
 - 🚀 Desenvoldedor Web Front End Jr.
 - 📫 Contate-me email: kennedysena.dev@gmail.com
 - ⚛️ JavaScript | Typescript | React
