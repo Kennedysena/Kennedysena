@@ -3,7 +3,7 @@
 - 💻 Desenvolvedor Web desde 2019
 - 🚀 Desenvoldedor Web Front End Jr.><a/>
 - 📫 Contate-me email: kennedysena.dev@gmail.com
-- ⚛️ JavaScript|React
+- ⚛️ JavaScript | Typescript | React
 
 <div> 
   <a href="https://github.com/Kennedysena">                                      
