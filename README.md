@@ -1,6 +1,6 @@
 ### Olá eu sou o Kennedy Sena 👋
 
-- 💻 Bacharel em Ciência da computação pela Univerdidade do Norte (UNINORTE) e Desenvolvedor Front End desde 2020, atualmente estou me especializando para me tornar um desenvolvedor fullstack, buscando ampliar minhas habilidades tanto no desenvolvimento front-end quanto no back-end.
+- 💻 Bacharel em Ciência da computação pela Univerdidade do Norte (UNINORTE) e Desenvolvedor Front End Jr, atualmente estou me especializando para me tornar um desenvolvedor Fullstack, buscando ampliar minhas habilidades tanto no desenvolvimento front-end quanto no back-end.
 - 🚀 Desenvoldedor Web Front End Jr.
 - 📫 Contate-me email: kennedysena.dev@gmail.com
 - ⚛️ JavaScript | Typescript | React
