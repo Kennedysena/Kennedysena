@@ -1,4 +1,4 @@
-### Olá eu sou o Kennedy Sena 👋
+### Olá eu sou o Kennedy Sena 👋🏻🤓
 
 - 💻 Bacharel em Ciência da computação pela Univerdidade do Norte (UNINORTE) e Desenvolvedor Front End Jr, atualmente estou me especializando para me tornar um desenvolvedor Fullstack, buscando ampliar minhas habilidades tanto no desenvolvimento front-end quanto no back-end.
 - 🚀 Desenvoldedor Web Front End Jr.
