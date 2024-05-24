@@ -1,17 +1,15 @@
 # <Olá eu sou o Kennedy Sena/> 👋🏻
-
 - 💻 Bacharel em Ciência da computação pela Universidade do Norte (UNINORTE) e Desenvolvedor Front End, atualmente estou me especializando para me tornar um desenvolvedor Fullstack, buscando ampliar minhas habilidades tanto no desenvolvimento front-end quanto no back-end.
 - 🚀 Desenvolvedor Web Front End Jr.
 - 📫 Contate-me: kennedysena.dev@gmail.com
 - 🟡 JavaScript | 🔵 Typescript | ⚛️ React
-
+#
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
   <a href="https://github.com/Kennedysena">                                      
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kennedysena&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedysena&layout=compact&langs_count=16&theme=dark" />
   </a>
 </div>
-
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
