@@ -4,6 +4,7 @@
 - 📫 Contate-me: kennedysena.dev@gmail.com
 - 🟡 JavaScript | 🔵 Typescript | ⚛️ React
 #
+<h1>📊 GitHub Stats</h1>
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
   <a href="https://github.com/Kennedysena">                                      
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kennedysena&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -23,7 +24,7 @@
 </div>
 
 ##
-📫 Connect With Me
+<h1>📫 Connect With Me</h1>
 <div>
   <a href="mailto:kennedysena.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kennedy-sena-de-freitas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
