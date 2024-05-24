@@ -1,4 +1,4 @@
-# <Olá Kennedy Sena/> 👋🏻
+# <Kennedy Sena/> 👋🏻
 
 ## 📝 About Me
 
