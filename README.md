@@ -8,8 +8,9 @@
 <div> 
   <a href="https://github.com/Kennedysena">                                      
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Kennedysena&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedysena&layout=compact&langs_count=16&theme=dark" />
 </div>
+    <div>
+       <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedysena&layout=compact&langs_count=16&theme=dark" />
 <div>
   <a href="https://app.rocketseat.com.br/me/kennedy-sena-1578453796"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=kennedy-sena-1578453796&type=card" width="280" alt="Kennedy Sena's Rocket ID"/></a>
 </div>
