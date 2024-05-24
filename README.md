@@ -2,6 +2,7 @@
 <h1>📝About Me</h1>
 - 💻 Bacharel em Ciência da computação pela Universidade do Norte (UNINORTE) e Desenvolvedor Front End, atualmente estou me especializando para me tornar um desenvolvedor Fullstack, buscando ampliar minhas habilidades tanto no desenvolvimento front-end quanto no back-end.
 - 📫 Contate-me: kennedysena.dev@gmail.com
+#
 <h1>📊 GitHub Stats</h1>
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
   <a href="https://github.com/Kennedysena">                                      
