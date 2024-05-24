@@ -1,4 +1,4 @@
-# <Olá eu sou o Kennedy Sena/> 👋🏻
+# <Kennedy Sena/> 👋🏻
 <h1>📝About Me</h1>
 
 - 💻 Bacharel em Ciência da computação pela Universidade do Norte (UNINORTE) e Desenvolvedor Front End, atualmente estou me especializando para me tornar um desenvolvedor Fullstack, buscando ampliar minhas habilidades tanto no desenvolvimento front-end quanto no back-end.
