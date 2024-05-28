@@ -1,4 +1,4 @@
-## Olá, meu nome é <Kennedy Sena/>👋🏻
+## Olá, meu nome é Kennedy Sena👋🏻
 
 ## 📝 About Me
 
