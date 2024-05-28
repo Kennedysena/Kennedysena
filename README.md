@@ -37,8 +37,6 @@
   </a>
 </p>
 
----
-
 ## 📊 GitHub Stats
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
   <a href="https://github.com/Kennedysena">
