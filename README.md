@@ -1,21 +1,24 @@
 # <Olá Kennedy Sena/> 👋🏻
 
 ## 📝 About Me
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  💻 Bacharel em Ciência da computação pela Universidade do Norte (UNINORTE) e Desenvolvedor Front End, atualmente estou me especializando para me tornar um desenvolvedor Fullstack por meio Formação Explorer (Fullstack) da Rocketseat, buscando ampliar minhas habilidades tanto no desenvolvimento front-end quanto no back-end.<br>
+<p align="left"> Bacharel em Ciência da computação pela Universidade do Norte (UNINORTE) e Desenvolvedor Front End, atualmente estou me especializando para me tornar um desenvolvedor Fullstack por meio Formação Explorer (Fullstack) da Rocketseat, buscando ampliar minhas habilidades tanto no desenvolvimento front-end quanto no back-end.<br>
 </p>
 
+
 <p align="left">
-  🦄 Linguagens: Javascript, Typescript, React.Js.
+  💻 Linguagens: Javascript, Typescript, React.Js.
 </p>
 
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
   <br>
-   kennedysena.dev@gmail.com
+  <a>kennedysena.dev@gmail.com</a>
 </p>
+
+---
 
 ## 📊 GitHub Stats
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
