@@ -1,6 +1,6 @@
-## Olá, meu nome é Kennedy Sena👋🏻
+## Hello, my mane is Kennedy Sena👋🏻
 
-## 📝 Sobre mim
+## 📝 Sobre mim / About me
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -11,7 +11,9 @@ Bachelor in Computer Science from Universidade do Norte (UNINORTE) and Front End
 
 
 <p align="left">
-  💻 Tecnologias: ⤵️
+  💻 Tecnologias:
+  <br>
+       Technologies: ⤵️
   <br>
   <br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
@@ -25,7 +27,10 @@ Bachelor in Computer Science from Universidade do Norte (UNINORTE) and Front End
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Aqui vai uma mensagem para entrar em contato com você:
+  <br>
+        Here is a message to contact you: ⤵️
+  <br>
   <br>
   <a href="mailto:kennedysena.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
