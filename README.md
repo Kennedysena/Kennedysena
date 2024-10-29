@@ -3,9 +3,9 @@
 ## 📝 Sobre mim / About me
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-##  🇧🇷
+## 🇧🇷
 <p align="left">Bacharel em Ciência da Computação pela Universidade do Norte (UNINORTE) e Desenvolvedor Front End, atualmente estou me especializando para me tornar um desenvolvedor Fullstack por meio Formação Explorer (Fullstack) da Rocketseat, buscando ampliar minhas habilidades tanto no desenvolvimento front-end quanto no back-end.</p>
-##  🇺🇸
+## 🇺🇸
 <p align="left">Bachelor in Computer Science from Universidade do Norte (UNINORTE) and Front End Developer, I am currently specializing to become a Fullstack developer through Rocketseat's Explorer Training (Fullstack), seeking to expand my skills in both front-end and back-end development-end.</p>
 
 
