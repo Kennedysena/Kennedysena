@@ -1,5 +1,4 @@
-## <img src="https://github.com/user-attachments/assets/20faa263-65a4-45ab-ae12-6900e54d90cb">
-
+<img src="https://github.com/user-attachments/assets/98ea837a-ad03-459b-88e4-5976b4e6fa22">
 
 ## 📝 Sobre mim / About me
 
