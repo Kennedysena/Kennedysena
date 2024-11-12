@@ -6,8 +6,6 @@
 
 <p align="justified">Bachelor in Computer Science from Universidade do Norte (UNINORTE) and Front End Developer, I am currently specializing to become a Fullstack developer through Rocketseat's Explorer Training (Fullstack), seeking to expand my skills in both front-end and back-end development-end.</p>
 
-
-
 <p align="left">
   💻 Tecnologias:
   <br>
